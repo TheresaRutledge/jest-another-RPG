@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG for bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheresaRutledge/jest-another-RPG.git"
+  },
+  "author": "Theresa Rutledge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheresaRutledge/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/TheresaRutledge/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
